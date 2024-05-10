@@ -7,8 +7,9 @@
 </a>
 </div>
 <br>
-<h4 align="center">✨ Automate Your Telegram Chats with this Auto Reaction Bot! React to Messages Effortlessly! 🚀</h4>
-
+<h4 align="center">✨ Automate Your Telegram Reactions with this Auto Reaction Bot! React to Messages Effortlessly! 🚀</h4>
+<br>
+This is a Script to automate the reactions on Telegram Channels (Public + Private) or Groups. After setting up the script, whenever a new post arrives on the channel, it automatically receives the Reaction.
 <br>
 
 ## _✨ Features_
