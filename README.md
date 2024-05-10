@@ -5,12 +5,12 @@
 
             Automate Your Telegram Reactions with this Auto Reaction Bot! React to Messages Effortlessly
 
-✨ Features --
+_**✨ Features --**_
 
-Automatic Reactions ✓
-Supports Multiple Chats ✓
-Efficient Real-Time Processing ✓
-Supports for Groups & Channels ✓
-Compliance with Telegram API Updates ✓
-Lightweight Code - Easy Setup ✓
+Automatic Reactions ✓\n
+Supports Multiple Chats ✓\n
+Efficient Real-Time Processing ✓\n
+Supports for Groups & Channels ✓\n
+Compliance with Telegram API Updates ✓\n
+Lightweight Code - Easy Setup ✓\n
 My Support on Telegram Perfect26456
