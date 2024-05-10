@@ -1,4 +1,4 @@
-**Auto-Reaction-Bot-Telegram**
+# **Auto-Reaction-Bot-Telegram**
 
 ❤️ Auto Reaction Bot 🚀
 
