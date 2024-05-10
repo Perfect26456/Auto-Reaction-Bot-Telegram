@@ -7,16 +7,17 @@
 </a>
 </div>
 <br>
-Automate Your Telegram Reactions with this Auto Reaction Bot! React to Messages Effortlessly
+<h4 align="center">✨ Automate Your Telegram Chats with this Auto Reaction Bot! React to Messages Effortlessly! 🚀</h4>
 
 <br>
 
-## _**✨ Features --**_
+## _✨ Features_
+- Automatic Reactions ✓
+- Supports Multiple Chats ✓
+- Efficient Real-Time Processing ✓
+- Supports for Groups & Channels ✓
+- Compliance with Telegram API Updates ✓
+- Lightweight Code - Easy Setup ✓
+- My Support on Telegram <a href="https://t.me/perfect26456">Perfect ×͜×</a>
 
-Automatic Reactions ✓
-Supports Multiple Chats ✓
-Efficient Real-Time Processing ✓
-Supports for Groups & Channels ✓
-Compliance with Telegram API Updates ✓
-Lightweight Code - Easy Setup ✓
-My Support on Telegram Perfect26456
+.
