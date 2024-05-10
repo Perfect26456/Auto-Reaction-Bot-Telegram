@@ -5,7 +5,7 @@
 
             Automate Your Telegram Reactions with this Auto Reaction Bot! React to Messages Effortlessly
 
-_**✨ Features --**_
+## _**✨ Features --**_
 
 Automatic Reactions ✓
 Supports Multiple Chats ✓
