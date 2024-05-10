@@ -1,6 +1,6 @@
 # **Auto-Reaction-Bot-Telegram**
 
-❤️ Auto Reaction Bot 🚀
+## ❤️ Auto Reaction Bot 🚀
 
 
             Automate Your Telegram Reactions with this Auto Reaction Bot! React to Messages Effortlessly
