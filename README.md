@@ -1,9 +1,15 @@
-# **Auto-Reaction-Bot-Telegram**
+# **Auto-Reaction-Bot-Telegram 🚀**
+<br>
 
-## ❤️ Auto Reaction Bot 🚀
+<div align='center'> 
+<a href='https://t.me/+Vq1OUKQIB0YxMmRl'>
+<img src='https://img.shields.io/badge/Telegram-The Method Zone-blue?logo=telegram&style=flat'> 
+</a>
+</div>
+<br>
+Automate Your Telegram Reactions with this Auto Reaction Bot! React to Messages Effortlessly
 
-
-            Automate Your Telegram Reactions with this Auto Reaction Bot! React to Messages Effortlessly
+<br>
 
 ## _**✨ Features --**_
 
