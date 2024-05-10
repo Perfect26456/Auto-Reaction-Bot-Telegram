@@ -20,4 +20,22 @@
 - Lightweight Code - Easy Setup ✓
 - My Support on Telegram <a href="https://t.me/perfect26456">Perfect ×͜×</a>
 
-.
+<br>
+
+## _🚀 Deployment Process {Windows} -_
+
+- Download and install Python on your RDP
+- Download the Repo on your RDP
+- Open vars.txt file and edit the variables
+- Enter your Telegram User Account API ID in 1st Line
+- Enter your Telegram User Account API Hash in 2nd Line
+- Enter the Channel IDs of the Channels where you want the Reactions to come as soon as a new post arrives
+- For multiple Channel IDs enter each in a seperate line
+- Save the vars.txt file and open CMD in the current directory by pressing Shift + Right Click and select Open in Terminal
+- Run Command ``` pip install -r requirements.txt ```
+- After successfully installing the Dependencies, start main.exe file which is a exe version of the script to stop copying
+- Enter your phone number and OTP of telegram account
+- You are ready to go ! Now reaction will come on every new post automatically but make sure the user account is joined in the Channel whose ID has been given in the vars.txt file
+
+<br>
+
