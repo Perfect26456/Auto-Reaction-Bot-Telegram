@@ -39,3 +39,16 @@
 
 <br>
 
+## _🎯 Credits_
+
+<div align='center'> 
+<a href='https://t.me/perfect26456'>
+<img src='https://img.shields.io/badge/Telegram-Perfect-blue?logo=telegram&style=flat'> 
+</a>
+<a href='https://t.me/+Vq1OUKQIB0YxMmRl'>
+<img src='https://img.shields.io/badge/Telegram-The Method Zone-blue?logo=telegram&style=flat'> 
+</a>
+</div>
+
+
+
