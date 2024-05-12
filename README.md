@@ -40,6 +40,14 @@ This is a Script to automate the reactions on Telegram Channels (Public + Privat
 
 <br>
 
+## YouTube Tutorial in Hindi ~
+https://youtu.be/6teRKj4Nr-w
+
+## YouTube Tutorial in English ~
+https://youtu.be/qkuN418k9zU
+
+<br>
+
 ## _🎯 Credits_
 
 <div align='center'> 
